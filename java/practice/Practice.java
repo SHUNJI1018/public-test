@@ -1,8 +1,8 @@
 public class Practice {
   public static void main(String[] arges) {
-    int a = 3;
-    int b = 5;
-    int c = a * b;
-    System.out.println(c);
+    float f = 3;
+    double d = f;
+    System.out.println(f);
+    System.out.println(d);
   }
 }
