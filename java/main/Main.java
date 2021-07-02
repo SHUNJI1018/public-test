@@ -13,5 +13,13 @@ public class Main {
     
     b++;
     System.out.println(b);
+    
+    boolean tenki = true;
+    if (tenki == true) {
+      System.out.println("洗濯をします");
+      System.out.println("散歩に行きます");
+    } else 
+      System.out.println("DVDを見ます");
+    
   }
 }
