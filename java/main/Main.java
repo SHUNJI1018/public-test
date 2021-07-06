@@ -21,5 +21,9 @@ public class Main {
     } else 
       System.out.println("DVDを見ます");
     
+    int d = 30;
+    int e = 7;
+    System.out.println((double)d / e);
+    
   }
 }
